@@ -12,6 +12,8 @@ class MyClass
         int age = 30;
         //age = "Kulpot Wahu";
         //String = 30;
+        double myGpa = 3.9999999;
+        bool amTired = true;
         Console.WriteLine(myString);
         Console.WriteLine(age);
 
